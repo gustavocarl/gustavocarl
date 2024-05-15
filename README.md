@@ -49,7 +49,7 @@
 * :card_index: Como também Card Games
 * :game_die: E Board Games
 * :mag: Curioso
-* :book: Amo ler
+* :book: Leitor de todo tipo de conteúdo
 
 ---
 
