@@ -3,7 +3,7 @@
 ## Eu sou: 
 * Gustavo Henrique Carl Dos Santos
 * 36 anos
-* :round_pushpin: Taquaritinga - SP - Brasil
+* Taquaritinga - SP - Brasil
 * Formado em Administração de Empresa
 * Estudante de Engenharia de Computação
 * Meu email pessoal gustavo_carl@hotmail.com
