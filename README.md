@@ -25,7 +25,7 @@
 ## No momento estou estudando: 
 * C#
 * SQL Server
-* Microfost Azure
+* Microsoft Azure
 
 ---
 
