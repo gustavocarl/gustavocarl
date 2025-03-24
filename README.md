@@ -2,16 +2,8 @@
 
 ## Eu sou: 
 * Gustavo Henrique Carl Dos Santos
-* 36 anos
-* Taquaritinga - SP - Brasil
-* Formado em Administração de Empresa
 * Estudante de Engenharia de Computação
 * Meu email pessoal gustavo_carl@hotmail.com
-
-## Objetivos na carreira
- * Me desenvolver profissionalmente cada vez mais
- * Aprender mais sempre que possível
-
 
 ## Tecnologias que conheço
 * HTML
@@ -26,18 +18,6 @@
 * C#
 * SQL Server
 * Microsoft Azure
-
-## Curiosidades sobre mim
-* :purple_heart: Mentorado pelo [Atitude Infinita](https://www.atitudeinfinita.org/)
-* :heart: Apaixonado por tecnologia
-* :art: Aspirante a Desenhista
-* :video_game: Gosto de Vídeo Games
-* :card_index: Como também Card Games
-* :game_die: E Board Games
-* :mag: Curioso
-* :book: Leio todo tipo de conteúdo
-
---- 
 
 ## Minhas principais tecnologias
 <div align=center>
