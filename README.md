@@ -3,7 +3,7 @@
 > ## Quem sou eu:
 
 - Gustavo Henrique Carl Dos Santos.
-- Estudante de Engenharia de Computação e Análise e Desenvolvimento de Sistemas.
+- Estudante de Engenharia de Computação.
 - Foco em desenvolvimento de sistemas.
 - Apaixonado por tecnologia e aprender coisas novas.
 - Aprendendo a criar softwares cada vez melhores.
@@ -18,6 +18,7 @@
 - HTML
 - CSS
 - JS
+- Linux
 
 > ## Tecnologias que conheço
 
