@@ -1,8 +1,4 @@
-<div align="center">
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=161b22&text=Hi,%20I'm%20Gustavo&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&fontSize=50)
-
-</div>
 
 ## About Me
 
