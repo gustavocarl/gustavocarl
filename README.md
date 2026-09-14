@@ -2,8 +2,7 @@
 
 ## About Me
 
-- Full-stack developer working with `HTML`, `CSS`, `JavaScript`, `Delphi` and `SQL Server`
-- Deepening expertise in `C#`, `ASP.NET Core`, `PostgreSQL` and `C++` for DSA
+- FullStack Developer — `Flutter (mobile)` & `Delphi/SQL Server (backend)`
 - I live in `Taquaritinga - SP - Brazil`
 - I work at `Focus Desenvolvimento de Sistemas`
 
